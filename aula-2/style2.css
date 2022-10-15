@@ -1,0 +1,63 @@
+.cor-p{
+    color: rgb(37, 37, 204);
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.noticias{
+    background-color: #CCC;
+    padding: 10px;
+    text-align: center;
+}
+
+.box{
+    padding: 15px;
+    display: inline-block;
+    width: 25%;
+    margin: 1%;
+}
+
+.logo{
+    /* largura */
+    width: 100px;
+    /* altura */
+    height: 60px;
+    margin-top: 25px;
+}
+
+h1{
+    display: inline-block;
+    width: 50%;
+}
+
+.center{
+    text-align: center;
+}
+
+.tabela, .tabela td, .box{
+    border: 2px solid #333;
+}
+
+.tabela{
+    width: 50%;
+    /* margin: top right bottom left; */
+    /* margin: top-bottom right-left */
+    /* margin: top-bottom-right-left; */
+    margin: 0 auto;
+    border-collapse: collapse; /* configurar espaço entre as tds */
+}
+
+.tabela td{
+    background-color: #CCC;
+    padding: 5px;
+}
+
+.tabela td a{
+    color: aquamarine;
+}
+
+.marcador {
+    background-color: yellow;
+}
